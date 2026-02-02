@@ -1,0 +1,15 @@
+{
+  "network": "ethereum",
+  "addresses": [
+    "...", "..."
+  ],
+  "telegram_token": "...",
+  "telegram_chat_id": "...",
+  "update_interval": 60,
+  "networks_available": {
+    "ethereum": "AAVE V3 on Ethereum Mainnet",
+    "polygon": "AAVE V3 on Polygon",
+    "arbitrum": "AAVE V3 on Arbitrum",
+    "optimism": "AAVE V3 on Optimism"
+  }
+}
